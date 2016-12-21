@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cokeeffekt/chip-tests#readme",
   "dependencies": {
+    "chip-io": "^2.1.0",
     "johnny-five": "^0.10.6"
   }
 }
